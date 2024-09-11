@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.188" tests="1" skipped="0" failures="1" errors="0">
+<testcase classname="Print product details and cost from Automation Exercise" name="Print details of all products from the product page" time="0.022">
+<failure/>
+<system-out><![CDATA[
+Given the user is on the Automation Exercise product page...................undefined
+When the user retrieves the product names and prices........................skipped
+Then the system prints the product details and their corresponding prices...skipped
+]]></system-out>
+</testcase>
+</testsuite>
